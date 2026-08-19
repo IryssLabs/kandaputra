@@ -37,12 +37,12 @@ const allProjects = [
     slug: "smart-lansia"
   },
   {
-    title: "SIBO",
-    description: "Sistem Informasi Bimbingan Online - Integrated platform for digital academic guidance and consultation management.",
-    tags: ["Next.js", "Dashboard", "SystemInformation", "Education", "Fullstack"],
+    title: "Stimuno",
+    description: "Interactive health education platform designed to deliver engaging and accessible health information through a modern digital experience.",
+    tags: ["Next.js", "React", "HealthTech", "Interactive", "Frontend"],
     image: "/images/sibo.webp",
-    link: "https://sibo.web.id/",
-    slug: "sibo"
+    link: "https://stimuno.web.id/",
+    slug: "stimuno"
   },
   {
     title: "Re-Krendisial ",
