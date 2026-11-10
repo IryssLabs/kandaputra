@@ -9,7 +9,7 @@ const allProjects = [
     description: "Creative Web Developer for Artists, Cosplayers, and Creative Communities. Developed by Kanda Putra.",
     tags: ["Next.js", "LandingPage", "Frontend", "Creative", "community", "Commission"],
     image: "/images/kyuverse.webp",
-    link: "https://www.kyuverse.my.id/",
+    link: "https://kyuverse.vercel.app/",
     slug: "kyuverse"
   },
   {
@@ -25,7 +25,7 @@ const allProjects = [
     description: "SI RINDU - Digital platform for elderly insomnia solutions using 5-finger hypnosis techniques. Health-tech development by Kanda Putra.",
     tags: ["Next.js", "LandingPage", "Frontend", "HealthTech", "Insomnia", "SleepAid"],
     image: "/images/sirindu.webp",
-    link: "https://sirindu.com/",
+    link: "https://si-rindu.vercel.app/",
     slug: "sirindu"
   },
   {
